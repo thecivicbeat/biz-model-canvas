@@ -1,6 +1,8 @@
 Business Model Canvas (Scapple edition)
 ================
 
+![Screenshot of the scapple canvas](/Screenshot.png "Screenshot of the scapple canvas")
+
 The remixed business model canvas for use with Literature and Latte's Scapple application. Long live the mind map.
 
 This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
