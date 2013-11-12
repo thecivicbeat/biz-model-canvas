@@ -1,4 +1,10 @@
-biz-model-canvas
+Business Model Canvas (Scapple edition)
 ================
 
-Business model canvas templates for Literature and Latte's Scapple application
+The remixed business model canvas for use with Literature and Latte's Scapple application. Long live the mind map.
+
+This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+The original business model canvas can be found at http://www.businessmodelgeneration.com/
